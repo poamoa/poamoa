@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Joel
+- 👀 I’m interested in Music, especially Synthesizer, HW Development (Electrical Engineering)
+- 🌱 I’m currently learning to use KiCAD and to use GitHub for my hobbies :)
+- 💞️ I’m looking to collaborate on anything that might be something new and in has impact on the field of music. 
+- 📫 How to reach me: Just pm me, or write an e-mail: Joelbrand93@gmail.com
